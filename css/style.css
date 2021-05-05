@@ -151,7 +151,7 @@
 
 /* Ex 10 */
 
-.ex-10-icon:hover {
+.ex-10-icon {
     animation: 1s spin linear infinite;
 }
 
